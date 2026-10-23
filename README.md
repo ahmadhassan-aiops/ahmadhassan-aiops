@@ -127,17 +127,6 @@ Free, hands-on courses built from my teaching material. Every repo has clear not
 
 ---
 
-## 📈 GitHub stats
-
-<div align="center">
-
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadhassan-aiops&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhassan-aiops&layout=compact&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 🤝 **Let's connect:** I'm keen to meet researchers, labs and teams working in computational drug discovery, bioinformatics, clinical AI or pharmaceutical R&D, to exchange ideas and explore research collaboration.
